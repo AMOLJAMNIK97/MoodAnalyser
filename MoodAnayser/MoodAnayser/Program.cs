@@ -12,8 +12,7 @@ namespace MoodAnayser
     {
         static void Main(string[] args)
         {
-            MoodSadOrHappy obj = new MoodSadOrHappy();
-            obj.Mood("happy");
+            
 
         }
     }
